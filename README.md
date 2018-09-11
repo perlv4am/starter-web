@@ -7,3 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## How to edit
+This is an example how to edit.
