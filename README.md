@@ -12,4 +12,8 @@ This is an example how to edit.
 ##New section
 Another text for this section.
 
+##How to contribute
+Please fork this repository and than issue a pull requ
+
+###
 Copyright 2018
