@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## How to edit
 This is an example how to edit.
+
+##New section
+Another text for this section.
