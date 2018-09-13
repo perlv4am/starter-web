@@ -11,3 +11,5 @@ This is an example how to edit.
 
 ##New section
 Another text for this section.
+
+Copyright 2018
